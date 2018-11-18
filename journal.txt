@@ -1,0 +1,3 @@
+Fonctionnement:
+ce projet a pour but 
+l'initiation pour git
